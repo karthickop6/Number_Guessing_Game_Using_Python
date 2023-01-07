@@ -8,7 +8,7 @@
 
 
 
-========================================A SIMPLE NUMBER GUESSING GAME USING PYTHON====================================================
+=================A SIMPLE NUMBER GUESSING GAME USING PYTHON==================
 
 
 INSTALLATION ON LINUX:
@@ -30,6 +30,7 @@ INSTALLATION ON WINDOWS:
  1. download the zip file.
  2. extract the zip file.
  3. double click on the numberguessing.exe
+ 
  ```
  
  
@@ -46,5 +47,4 @@ INSTALLATION ON WINDOWS:
  
  
  
- 
- *********************************************************************THANKS FOR VISITING  :) ******************************************************************************
+                                                                            THANKS FOR VISITING  :) 
