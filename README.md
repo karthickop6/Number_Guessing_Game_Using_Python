@@ -23,15 +23,7 @@ python3 numberguessing.py
 
 
 
-```
-INSTALLATION ON WINDOWS:
 
- ```
- 1. download the zip file.
- 2. extract the zip file.
- 3. double click on the numberguessing.exe
- 
- ```
  
  
  
